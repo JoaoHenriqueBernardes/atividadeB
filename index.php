@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="container">
-    <h1>Bem-vindo ao Sistema</h1>
+    <h1>Sistema hackeado lol</h1>
     <a href="login.php">Login</a>
     <a href="cadastro.php">Cadastrar Usuário</a>
 </div>
